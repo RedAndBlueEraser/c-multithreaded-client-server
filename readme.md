@@ -68,8 +68,8 @@ If you don't specify the IP address or port numbers, then the program asks you t
 
 ```Shell
 $ ./client
-Enter Server Name: _127.0.0.1_
-Enter Port: _27015_
+Enter Server Name: 127.0.0.1
+Enter Port: 27015
 ```
 
 The server program does nothing apart from accepting connections from clients. The client program connects to the server and then exits. **Any further features, functions or interactions will need to be implemented by you.**

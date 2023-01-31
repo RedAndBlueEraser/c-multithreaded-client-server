@@ -83,4 +83,4 @@ The server program does nothing apart from accepting connections from clients. T
 
 ## Author
 
-Harry Wong (RedAndBlueEraser) <RedAndBlueEraser@outlook.com>
+RedAndBlueEraser
